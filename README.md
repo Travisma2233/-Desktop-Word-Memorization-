@@ -113,7 +113,7 @@ abandon=放弃,抛弃=The old house had been abandoned for years.=这座老房�
 
 MIT License
 
-Copyright (c) 2024 xinru03
+Copyright (c) 2024 Travisma2233
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
