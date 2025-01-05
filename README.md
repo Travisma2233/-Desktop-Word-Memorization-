@@ -77,7 +77,7 @@ word=chinese meaning=english example=chinese translation
 
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/xinru03/desktop-word-reminder.git
+   git clone https://github.com/Travisma2233/-Desktop-Word-Memorization-.git
    ```
 
 2. 安装依赖：
