@@ -1,0 +1,20 @@
+abandon=放弃,抛弃=The old house had been abandoned for years.=这座老房子已经被废弃多年了。
+abstract=抽象的,深奥的=The paper discusses abstract concepts in philosophy.=这篇论文讨论了哲学中的抽象概念。
+accommodate=容纳,适应=The hotel can accommodate up to 200 guests.=这家酒店可以容纳多达200位客人。
+accumulate=积累,堆积=Over the years, he accumulated a large collection of books.=多年来，他积累了大量的书籍。
+accurate=准确的,精确的=The weather forecast was accurate.=天气预报很准确。
+achieve=实现,达到=She achieved her goal of becoming a doctor.=她实现了成为医生的目标。
+acknowledge=承认,确认=He acknowledged his mistake.=他承认了自己的错误。
+adapt=适应,改编=The children adapted quickly to the new environment.=孩子们很快适应了新环境。
+adequate=足够的,适当的=The food supply is adequate for the population.=食物供应足以满足人口需求。
+adjacent=邻近的,毗连的=The park is adjacent to the school.=公园紧邻学校。
+adjust=调整,校准=You need to adjust the seat to your height.=你需要根据自己的身高调整座椅。
+administer=管理,执行=The nurse administered the medication.=护士给病人用药。
+advocate=提倡,主张=He is an advocate for environmental protection.=他是环境保护的倡导者。
+affect=影响,感动=The weather can affect your mood.=天气会影响你的心情。
+aggregate=合计,总计=The aggregate sales for the year were impressive.=全年总销售额令人印象深刻。
+allocate=分配,拨出=The government allocated funds for the new project.=政府为新项目拨款。
+alter=改变,修改=The tailor altered the dress to fit her better.=裁缝修改了裙子以更合身。
+alternative=替代的,选择性的=We need to find an alternative solution.=我们需要找到一个替代方案。
+ambiguous=模糊的,不明确的=The instructions were ambiguous and confusing.=说明书模糊不清，令人困惑。
+amend=修正,改善=The law was amended to include new regulations.=法律被修订以包含新规定。 
