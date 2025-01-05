@@ -1,62 +1,6 @@
 
 
 ```markdown
-# 🎯 Desktop Word Reminder 桌面单词提醒工具
-
-[English](#english) | [中文](#中文)
-
-## English
-
-A desktop widget to help memorize IELTS vocabulary with a clean and modern interface.
-
-### ✨ Features
-
-- 🖥️ Display words, meanings, and example sentences on desktop
-- ⏰ Automatically update with new words every 15 minutes
-- 🔄 Support manual switching between previous/next words
-- 🖱️ Draggable position with position lock feature
-- 🌈 Frosted glass transparency effect
-- 💾 Remember last position before closing
-
-### 🛠️ Requirements
-
-- Python 3.6+
-- pywin32
-- tkinter (usually comes with Python)
-
-### 📥 Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/desktop-word-reminder.git
-```
-
-2. Install dependencies:
-```bash
-pip install pywin32
-```
-
-3. Run the program:
-```bash
-python word_reminder.py
-```
-
-### 📖 Usage
-
-- ◀ ▶ buttons: Switch to previous/next word
-- 🔓/🔒 button: Lock/unlock window position
-- ❌ button: Close window
-- 🖱️ Drag: Adjust window position
-
-### 📝 Customize Word List
-
-Add words to `words.txt` in the following format:
-```
-word=chinese meaning=english example=chinese translation
-```
-
----
-
 ## 中文
 
 一个帮助记忆雅思词汇的桌面小工具，界面简洁现代。
@@ -133,5 +77,61 @@ Contributions, issues and feature requests are welcome!
 Give a ⭐️ if this project helped you!
 
 如果这个项目对你有帮助，请给一个 ⭐️！
+
+# 🎯 Desktop Word Reminder 桌面单词提醒工具
+
+[English](#english) | [中文](#中文)
+
+## English
+
+A desktop widget to help memorize IELTS vocabulary with a clean and modern interface.
+
+### ✨ Features
+
+- 🖥️ Display words, meanings, and example sentences on desktop
+- ⏰ Automatically update with new words every 15 minutes
+- 🔄 Support manual switching between previous/next words
+- 🖱️ Draggable position with position lock feature
+- 🌈 Frosted glass transparency effect
+- 💾 Remember last position before closing
+
+### 🛠️ Requirements
+
+- Python 3.6+
+- pywin32
+- tkinter (usually comes with Python)
+
+### 📥 Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/desktop-word-reminder.git
+```
+
+2. Install dependencies:
+```bash
+pip install pywin32
+```
+
+3. Run the program:
+```bash
+python word_reminder.py
+```
+
+### 📖 Usage
+
+- ◀ ▶ buttons: Switch to previous/next word
+- 🔓/🔒 button: Lock/unlock window position
+- ❌ button: Close window
+- 🖱️ Drag: Adjust window position
+
+### 📝 Customize Word List
+
+Add words to `words.txt` in the following format:
+```
+word=chinese meaning=english example=chinese translation
+```
+
+---
 ```
 
